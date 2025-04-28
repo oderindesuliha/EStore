@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class Sellers {
+public class Sellers extends Users{
 }

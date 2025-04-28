@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Customers extends Users {
 
-public class Customers {
-}
+    }
